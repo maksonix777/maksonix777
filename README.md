@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on https://kidsmusicisland.netlify.app/
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on new projects
-- 
-
 - 🌍 I speak Russian, English, German
 
 <h4 align="left">Connect with me:</h4>
