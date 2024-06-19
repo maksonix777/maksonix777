@@ -9,5 +9,5 @@
 
 - - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/maria-k-2890692b8/))
 - ⚡ Fun fact: - 🤔 I’m looking for help with money
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![linkedin]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/maria-k-2890692b8/))]
 
