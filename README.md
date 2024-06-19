@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on new projects
 - 🌍 I speak Russian, English, German
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Connect with me:</h4> 
 - 📫 mak.web.develop@gmail.com
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-k-2890692b8" height="30" width="40" />
