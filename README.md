@@ -1,12 +1,5 @@
 ## Wellcome! 👋
-
-
-
-- - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/maria-k-2890692b8/))
-- ⚡ Fun fact: - 🤔 I’m looking for help with money
-![linkedin]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/maria-k-2890692b8/))]
-
-<h1 align="center">Hi 👋, I'm maksonix777</h1>
+<h1 align="center">Hi 👋, I'm maksonix</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 
