@@ -1,11 +1,6 @@
 ## Wellcome! 👋
 
-- 🔭 I’m currently working on https://kidsmusicisland.netlify.app/
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate on new projects
-- 
 
-- 🌍 I speak Russian, English, German
 
 - - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/maria-k-2890692b8/))
 - ⚡ Fun fact: - 🤔 I’m looking for help with money
@@ -14,6 +9,13 @@
 <h1 align="center">Hi 👋, I'm maksonix777</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
+
+- 🔭 I’m currently working on https://kidsmusicisland.netlify.app/
+- 🌱 I’m currently learning JS
+- 👯 I’m looking to collaborate on new projects
+- 
+
+- 🌍 I speak Russian, English, German
 
 <h4 align="left">Connect with me:</h4>
 - 📫 mak.web.develop@gmail.com
