@@ -14,13 +14,9 @@
 <a href="https://linkedin.com/in/maria-k-2890692b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-k-2890692b8" height="30" width="40" /></a>
 </p>
 
-
-<p align="left">
-  <h3 align="left">Languages and Tools:</h3>
-  
 <p align="left">
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">I am first web developer</p>
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
