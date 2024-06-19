@@ -5,8 +5,9 @@
 - 👯 I’m looking to collaborate on new projects
 - 
 - 📫 How to reach me: mak.web.develop@gmail.com
-- 🌍 I speak Russian, Polish, English
+- 🌍 I speak Russian, English, German
 
 - - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/maria-k-2890692b8/))
 - ⚡ Fun fact: - 🤔 I’m looking for help with money
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
