@@ -20,7 +20,7 @@
   
 <p align="left">
   
-  <a href="https://www.blender.org/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.blender.org/" rel="noreferrer" style="text-decoration: none;">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
   </a>
   
