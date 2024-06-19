@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wellcome! 👋
 
 - 🔭 I’m currently working on https://kidsmusicisland.netlify.app/
 - 🌱 I’m currently learning JS
