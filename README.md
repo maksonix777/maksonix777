@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 
-- 🔭 I’m currently working on (https://kidsmusicisland.netlify.app/](https://www.wbstraining.de/standorte/weiterbildung-duesseldorf/)
+- 🔭 I’m currently working on (https://www.wbstraining.de/standorte/weiterbildung-duesseldorf/)
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on new projects
 - 🌍 I speak Russian, English, German
